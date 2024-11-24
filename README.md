@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahm-ed120
 - 👀 I’m interested in learning web develpoment, java, phython and machine learning.
 - 🌱 I’m currently learning about fundamentals of computer science and and mathematics related to it.
-- 💞️ I’m looking to collaborate on anything related to c or c++.
+- 💞️ I’m looking to collaborate on anything related to c, c++ and java.
 - 📫 Contact me via email ahmedullah6897@gmail.com.
